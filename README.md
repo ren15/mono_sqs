@@ -8,6 +8,7 @@ mono_sqs is a POC of single-machine AWS SQS like app.
 - Use rust actix-web
 - __not__ FIFO
 - Designed to be deployed on EC2 such as m6in.2xlarge
+- Many queues are just BTrees 
 
 
 ## Goal
